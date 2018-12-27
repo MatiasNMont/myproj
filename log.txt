@@ -1,0 +1,41 @@
+commit 4f344aa43d547c3d1fbcbea4bc91b5929d1466e3
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Thu Dec 27 09:28:19 2018 -0300
+
+    Agrege diccionario
+
+commit bfaf7742781203615bc2b864ad9959ff14740b80
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Thu Dec 27 09:23:06 2018 -0300
+
+    Modifique todo
+
+commit d6fe592305be215945f897b84b46863757deee7a
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Thu Dec 27 09:22:34 2018 -0300
+
+    Modifique todo
+
+commit 588f9a4e7cf151312802cb712a51e1fca5270ae8
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Wed Dec 26 13:49:36 2018 -0300
+
+    Printeo hola mundo
+
+commit c1c8441d4890549b805b269344478d33b611be9b
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Wed Dec 26 13:47:07 2018 -0300
+
+    SImplemente secure
+
+commit e979565a019a8429d058e8aa7ae8e1a81321696c
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Wed Dec 26 13:43:41 2018 -0300
+
+    Start Code Rocks
+
+commit 368be7ddfb62e9566403ad1ac4ab215798424279
+Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
+Date:   Wed Dec 26 13:12:01 2018 -0300
+
+    initial commit
