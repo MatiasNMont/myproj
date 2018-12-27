@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 commit 4f344aa43d547c3d1fbcbea4bc91b5929d1466e3
 Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
 Date:   Thu Dec 27 09:28:19 2018 -0300
 
     Agrege diccionario
 
+=======
+>>>>>>> test
 commit bfaf7742781203615bc2b864ad9959ff14740b80
 Author: MatiasNMont <nicolasmontivero.nw273@gmail.com>
 Date:   Thu Dec 27 09:23:06 2018 -0300
