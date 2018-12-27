@@ -21,6 +21,6 @@ def funcion():
 	list = [ x for i in range(1,15) if x % 2 == 0]
 	return list
 	
-
+print randint(0,100)
 print funcion()
 print "SOLO SON CAMBIOS PARA VER LAS RAMAS"
