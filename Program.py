@@ -20,5 +20,7 @@ rock = {
 def funcion():
 	list = [ x for i in range(1,15) if x % 2 == 0]
 	return list
+	
 
 print funcion()
+print "SOLO SON CAMBIOS PARA VER LAS RAMAS"
