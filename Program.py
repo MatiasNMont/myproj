@@ -10,4 +10,10 @@ while n < 3:
 else:
 	print "Perdiste"
 	
+rock = {
+	"Actor A":[],
+	"Actor B":[],
+	"Cant" : 0
+	}
+
 
