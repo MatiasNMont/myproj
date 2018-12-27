@@ -18,4 +18,7 @@ rock = {
 
 
 def funcion():
-	print "SOlo por mostrar"
+	list = [ x for i in range(1,15) if x % 2 == 0]
+	return list
+
+print funcion()
