@@ -15,7 +15,12 @@ rock = {
 	"Actor B":[],
 	"Cant" : 0
 	}
-
+def num_even(lista):
+	l=[]
+	for i in lista:
+		if i % 2 == 0:
+			l.append(i)
+	return l
 
 def funcion():
 	list = [ x for i in range(1,15) if x % 2 == 0]
