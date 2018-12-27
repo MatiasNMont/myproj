@@ -17,3 +17,5 @@ rock = {
 	}
 
 
+def funcion():
+	print "SOlo por mostrar"
